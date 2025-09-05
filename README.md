@@ -7,7 +7,7 @@ This repository documents a research project focused on understanding how public
 ## 🎯 Purpose
 
 To analyze:
-- The motivations and challenges behind data-driven decision-making in Kenya
+- The motivations and challenges behind data-driven decision-making in Kenya, and in Africa.
 - The structure and gaps of the national public data ecosystem
 - Real-world opportunities for freelance or entrepreneurial work using open data
 - Key actors involved in data collection, management, and application
